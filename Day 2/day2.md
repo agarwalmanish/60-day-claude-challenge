@@ -29,7 +29,7 @@ Here are the core techniques:
 
 **System prompts** — high-level instructions that set the AI's behavior for an entire session, commonly used by developers building products on top of models like Claude.
 
-![Weak Prompt Concept Image](image.png)
+![Weak Prompt Concept Image](Weak%20Prompt.png)
 
 ### IMPROVED PROMPT ###
 You are an AI educator teaching complete beginners.
@@ -95,4 +95,4 @@ This prompt names the platform, audience, topic, format, tone, and goal. Claude 
 ---
 
 ## Section 3: LinkedIn Image
-![Improved Prompt Concept Image](image-1.png)
+![Improved Prompt Concept Image](Improved%20Prompt.png)
