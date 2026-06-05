@@ -1,4 +1,4 @@
-## Day 3: Chain-of-Thought Prompting ##
+## Day 4: Chain-of-Thought Prompting ##
 
 ### Prompt: Chain-of-Thought Prompting ###
 > 
